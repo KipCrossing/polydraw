@@ -20,16 +20,7 @@ This repository contains a frontend-only TypeScript-based web application that a
 `npm install`
 
 
-2. Run the development server:
+2. Run:
 
-`npm run dev`
-
-
-This command will start a development server, and you can view the application in your browser at `http://localhost:8080`.
-
-## Build for Production
-
-To build the application for production, run the following command:
-
-`npm run build`
+`npm start`
 
