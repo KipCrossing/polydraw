@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules
+
+# Build artifacts
+/dist
+/.cache
+
+# Environment files
+.env
+
+# Editor and OS-specific files
+.vscode
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.bak
+*.tmp
