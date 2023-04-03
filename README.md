@@ -24,3 +24,11 @@ This repository contains a frontend-only TypeScript-based web application that a
 
 `npm start`
 
+### Some datasets:
+
+- https://registry.opendata.aws/terrain-tiles/
+- https://registry.opendata.aws/silam/
+
+#### For getting zarr data from s3 and loading it in
+
+`npm install zarr numcodecs`
